@@ -1,0 +1,50 @@
+header {
+	font-family: "square peg", cursive;
+	text-align: center;
+	background-color: lightblue;
+	color: white;
+	padding: 3% 5% 0% 5%;
+	font-size: 1em;
+}
+
+#icon {
+	font-size: 2em;
+}
+
+.menu {
+	color: lightblue;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+	}
+
+nav ul {
+	list-style-type: none;
+	padding-left: 0px;
+	text-align: center;
+} 
+
+nav ul li {
+	display: inline-block;
+	padding: 20px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+    background-color: white;
+}
+
+#homeimg {
+	text-align: center;
+}
+
+section {
+	font-family: "roboto condensed", sans-serif;
+	text-align: left;
+	color: lightblue;
+}
+
+#link {
+	color: white;
+	background-color: lightblue;
+	padding: 8px;
+}

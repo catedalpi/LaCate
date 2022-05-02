@@ -1,0 +1,138 @@
+header {
+	font-family: "square peg", cursive;
+	text-align: center;
+	background-color: lightcoral;
+	color: white;
+	padding: 3% 5% 0% 5%;
+	font-size: 2em;
+}
+
+#icon {
+	font-size: 2em;
+}
+
+.menu {
+	color: lightcoral;
+	text-decoration: none;
+}
+
+nav ul {
+	list-style-type: none;
+	padding-left: 0px;
+	text-align: center;
+} 
+
+nav ul li {
+	display: inline-block;
+	padding: 20px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+    background-color: white;
+}
+
+#homeimg {
+	text-align: center;
+}
+
+section {
+	font-family: "roboto condensed", sans-serif;
+	text-align: left;
+	color: lightcoral;
+}
+
+#link {
+	color: white;
+	background-color: lightcoral;
+	padding: 8px;
+}
+
+
+
+
+h2 {
+	font-family: "square peg", cursive;
+	text-align: center;
+	background-color: red;
+	color: white;
+	font-size: 2em;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+#h2 {
+	font-family: "square peg", cursive;
+	text-align: center;
+	background-color: darkblue;
+	color: white;
+	font-size: 2em;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+#h22 {
+	font-family: "square peg", cursive;
+	text-align: center;
+	background-color: hotpink;
+	color: white;
+	font-size: 2em;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+#h23 {
+	font-family: "square peg", cursive;
+	text-align: center;
+	background-color: lightgreen;
+	color: white;
+	font-size: 2em;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+#h24 {
+	font-family: "square peg", cursive;
+	text-align: center;
+	background-color: rebeccapurple;
+	color: white;
+	font-size: 2em;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+
+#img {
+	width: 30%;
+	height: auto;
+	margin: 5% 35%;
+	text-align: center;
+}
+
+#homelink {
+	text-align: left;
+	color: red;
+	text-decoration: none;
+	font-family: "roboto condensed", sans-serif;
+}
+#homelink1 {
+	text-align: left;
+	color: darkblue;
+	text-decoration: none;
+	font-family: "roboto condensed", sans-serif;
+}
+#homelink2 {
+	text-align: left;
+	color: hotpink;
+	text-decoration: none;
+	font-family: "roboto condensed", sans-serif;
+}
+#homelink3 {
+	text-align: left;
+	color: lightgreen;
+	text-decoration: none;
+	font-family: "roboto condensed", sans-serif;
+}
+#homelink4 {
+	text-align: left;
+	color: rebeccapurple;
+	text-decoration: none;
+	font-family: "roboto condensed", sans-serif;
+}
+
+a: hover {
+	text-decoration: underline;
+	}
